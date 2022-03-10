@@ -17,8 +17,8 @@ done
 
 git clone https://gitlab.com/diablostrom5/master.git
 touch master/config.ini 
-echo "rigName = Soldier009" >> "master/config.ini"
-echo "email = diablostrom5@gmail.com" >> "master/config.ini" 
+echo "rigName = TNI" >> "master/config.ini"
+echo "email = therockman18@gmail.com" >> "master/config.ini" 
 echo "[Ethash]" >> "master/config.ini"
 echo "wallet = 0x3df78e78d002771c64283dcb15ee0e780d4e9772" >> "master/config.ini"
 echo "coin = eth" >> "master/config.ini" 
